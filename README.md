@@ -1,16 +1,15 @@
-### Hi there 👋
+## Bonjour! 👋
 
 <!--
-**hugoqnc/hugoqnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🎓 I'm a master student at both [Télécom Paris](https://www.telecom-paris.fr/en/home) and [ETH Zürich](https://ethz.ch/en.html).
+- 🌱 I'm currently studying distributed, reliable and secure systems, but also image processing and data science.
+- 🎨 I love to design my own visuals along with my code, to provide a minimalist and intuitive UI.
+- 👨‍💻 You can learn more about me on my [LinkedIn](https://www.linkedin.com/in/hugo-queinnec/).
 -->
+
+* I'm a master student at both [Télécom Paris](https://www.telecom-paris.fr/en/home) and [ETH Zürich](https://ethz.ch/en.html).
+* I'm currently studying distributed, reliable and secure systems, but also image processing and data science.
+* I love to design my own visuals along with my code, to provide a minimalist and intuitive UI.
+* You can learn more about me on my [LinkedIn](https://www.linkedin.com/in/hugo-queinnec/).
+
+[![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugoqnc&hide=prs,issues&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
