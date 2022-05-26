@@ -13,4 +13,5 @@
 * I love to design my own visuals along with my code, to provide a minimalist and intuitive UI.
 * You can learn more about me on my [LinkedIn](https://www.linkedin.com/in/hugo-queinnec/).
 
-[![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugoqnc&hide=prs,issues&count_private=true&show_icons=true)](https://github.com/hugoqnc)
+[![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugoqnc&hide=prs,issues&count_private=true&show_icons=true)](https://github.com/hugoqnc#gh-light-mode-only)
+[![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugoqnc&hide=prs,issues&count_private=true&show_icons=true&theme=github_dark)](https://github.com/hugoqnc#gh-dark-mode-only)
