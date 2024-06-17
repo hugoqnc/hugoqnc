@@ -1,8 +1,8 @@
 ## Bonjour! 👋
 
-* I'm a master student at both [ETH Zürich](https://ethz.ch/en.html) and [Télécom Paris](https://www.telecom-paris.fr/en/home).
+* Software Engineer Intern in the security department of [IBM Research](https://research.ibm.com/) Zürich, working on cryptography migration.
+* Previously a master student at both [ETH Zürich](https://ethz.ch/en.html) and [Télécom Paris](https://www.telecom-paris.fr/en/home).
 * Winner of WWDC22 Swift Student Challenge with [Split!](https://github.com/hugoqnc/Split).
-* I'm currently studying distributed, reliable and secure systems, but also image processing and data science.
 * You can learn more about me on my [LinkedIn](https://www.linkedin.com/in/hugo-queinnec/).
 
 <!--
